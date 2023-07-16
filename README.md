@@ -2,4 +2,4 @@
 
 ### Screenshots
 
-![Image](screenshots/1.jpg)(screenshots/2.jpg)(screenshots/3.jpg)
+![Image](screenshots/1.jpg)![Image](screenshots/2.jpg)![Image](screenshots/3.jpg)
